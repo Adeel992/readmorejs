@@ -31,3 +31,4 @@ jQuery(function () {
     //Calling function after Page Load
     AddReadMore();
 });
+<div class='addReadMore showlesscontent'>content here</div>
