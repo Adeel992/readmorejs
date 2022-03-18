@@ -1,3 +1,11 @@
+// wp_enqueue_script('readmore', 'https://rawgit.com/jedfoster/Readmore.js/master/readmore.js', array(), _S_VERSION, true);
+// jQuery('.morelessarticle').readmore({
+//     speed: 75,
+//     collapsedHeight: 25,
+//     moreLink: '<a class="ac" href="#">Show more</a>',
+//     lessLink: '<a class="kapat" href="#">Show Less</a>',
+//   });
+
 // custom readmore
 function AddReadMore() {
     //This limit you can set after how much characters you want to show Read More.
